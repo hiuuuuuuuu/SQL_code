@@ -35,3 +35,8 @@
 - **NULLIF()**
 - **CAST()**
 
+### CASE STUDY
+
+![image](https://github.com/user-attachments/assets/0dc1cdf2-7ea7-43dc-9899-71cb1e595ce4)
+
+
