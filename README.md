@@ -3,13 +3,13 @@
 ### LAB_02
 
 
-**COUNT, MIN, MAX, AVG, SUM**
+- **COUNT, MIN, MAX, AVG, SUM**
 
-**GROUPBYclause**
+- **GROUPBYclause**
 
-**HAVINGclause**
+- **HAVINGclause**
 
-**JOIN**
+- **JOIN**
 
 ![image](https://github.com/user-attachments/assets/286f4551-95c4-44a3-8193-852fc9c1cd51)
 1. [CREATE_TABLE_INSERT_hr.sql](https://github.com/hiuuuuuuuu/SQL/blob/main/CREATE_TABLE_INSERT_hr.sql)
