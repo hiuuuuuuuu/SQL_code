@@ -40,4 +40,5 @@
 ![image](https://github.com/user-attachments/assets/0dc1cdf2-7ea7-43dc-9899-71cb1e595ce4)
 
 1. [create_table_insert_case_study.sql](https://github.com/hiuuuuuuuu/SQL/blob/main/create_table_insert_case_study.sql)
-2. Query from the sale data 
+2. Query from the sale data
+   [query_pizza_runners.sql](https://github.com/hiuuuuuuuu/SQL/blob/main/query_pizza_runners.sql)
