@@ -27,3 +27,11 @@
 - **WINDOWFUNCTIONS**
 
 [QUERY_LAB_04](https://github.com/hiuuuuuuuu/SQL/blob/main/LAB_04.sql)
+
+### LAB_05
+
+- **CASE…WHEN**
+- **COALESCE()**
+- **NULLIF()**
+- **CAST()**
+
