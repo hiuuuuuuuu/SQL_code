@@ -8,7 +8,9 @@
 - **HAVINGclause**
 - **JOIN**
 1. [CREATE_TABLE_INSERT_hr.sql](https://github.com/hiuuuuuuuu/SQL/blob/main/CREATE_TABLE_INSERT_hr.sql)
-2. Query from the human resource data [QUERY_LAB_02.sql](https://github.com/hiuuuuuuuu/SQL/blob/main/QUERY_LAB_02.sql)
+2. Query from the human resource data
+
+[QUERY_LAB_02.sql](https://github.com/hiuuuuuuuu/SQL/blob/main/QUERY_LAB_02.sql)
  
 ### LAB_03
  - **DATETIME**
@@ -23,3 +25,5 @@
 ### LAB_04
 
 - **WINDOWFUNCTIONS**
+
+[QUERY_LAB_04](https://github.com/hiuuuuuuuu/SQL/blob/main/LAB_04.sql)
