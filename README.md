@@ -17,4 +17,5 @@
  -  **RETURNINGclause**
  -  **UPDATEmultiple records**
  -   **CTE**
+   
 [QUERY_LAB_03](https://github.com/hiuuuuuuuu/SQL/blob/main/lab_03.sql)
